@@ -1,0 +1,47 @@
+* { text-align: center
+}
+h1 {
+ padding: 20px;
+ text-align: center;
+ background: white;
+ color: #000000;
+border: 1px solid black
+}
+body { background-color: grey}
+  a:link { color: green;
+}
+h2 { border: 1px solid black;
+background: white}
+
+#section-left { float: left;
+    width: 50%;
+    height: 250px;
+    background: white;
+    border: 1px solid black;
+}
+#section-right { float: right;
+width: 49%;
+height: 250px;
+background: white;
+border: 1px solid black;
+}
+footer {
+  clear: both;
+  width: 100%;
+  padding: 10px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  border: 1px solid black; 
+  text-align: center;}
+ figure { 
+   position: relative;
+   background: grey;
+   width: 350px;
+   height: 135px;
+   left: 42px;
+   bottom: -70px;
+   
+   border: 1px solid black
+
+}
